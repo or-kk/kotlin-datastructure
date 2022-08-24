@@ -1,3 +1,5 @@
+package kotlinStack
+
 import java.util.Stack
 
 fun main() {
