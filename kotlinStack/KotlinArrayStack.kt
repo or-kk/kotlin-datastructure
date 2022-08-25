@@ -14,6 +14,5 @@ fun main() {
     arrayStack.pop()
     println(arrayStack)
 
-    arrayStack.peek()
-    println(arrayStack)
+    println(arrayStack.peek())
 }
